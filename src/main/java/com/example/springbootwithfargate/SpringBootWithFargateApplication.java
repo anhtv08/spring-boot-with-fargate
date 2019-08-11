@@ -10,4 +10,5 @@ public class SpringBootWithFargateApplication {
         SpringApplication.run(SpringBootWithFargateApplication.class, args);
     }
 
+
 }
