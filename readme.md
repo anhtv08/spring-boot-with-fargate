@@ -34,12 +34,13 @@ Docker image build
 ```bash
 
 docker build -t <account_id>/<image_id>:version .
+Example:
+
+docker build -t anhtv08/spring-boot-with-farget:0.0.1-SNAPSHOT .
 
 ```
 
-**Example**
 
-`docker build -t anhtv08/spring-boot-with-farget:0.0.1-SNAPSHOT .`
 
 
 
