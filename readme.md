@@ -37,7 +37,7 @@ docker build -t <account_id>/<image_id>:version .
 
 ```
 
-Example:
+**Example**
 
 `docker build -t anhtv08/spring-boot-with-farget:0.0.1-SNAPSHOT .`
 
