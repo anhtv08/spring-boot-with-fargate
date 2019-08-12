@@ -36,9 +36,20 @@ Docker image build
 docker build -t <account_id>/<image_id>:version .
 Example:
 
-docker build -t anhtv08/spring-boot-with-farget:0.0.1-SNAPSHOT .
+docker build -t anhtrang/spring-boot-with-farget:0.0.1-SNAPSHOT .
 
 ```
+
+Docker run
+===========
+
+```bash
+
+docker run -d -p 8080:8080 anhtrang/spring-boot-with-farget:0.0.1-SNAPSHOT
+
+```
+
+
 
 
 
